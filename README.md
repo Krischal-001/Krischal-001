@@ -63,14 +63,14 @@ krischal = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=krischallamechane&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krischallamechane&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Krischal-001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krischal-001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=krischallamechane&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff)
+![GitHub Streak](https://streak-stats.demolab.com?user=Krischal-001&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff)
 
 </div>
 
@@ -94,7 +94,7 @@ krischal = {
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krischallamechane)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Krischal-001)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krischal-lamichhane-6b9809356/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krischallamichhane001@gmail.com)
 
@@ -104,7 +104,7 @@ krischal = {
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=krischallamechane&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Krischal-001&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer)
 
