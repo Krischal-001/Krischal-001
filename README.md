@@ -1,9 +1,7 @@
 <div align="center">
-
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:58a6ff&height=200&section=header&text=Krischal%20Lamechane&fontSize=45&fontColor=58a6ff&fontAlignY=38&desc=Student%20Developer%20%7C%20Web%20Dev%20%7C%20Python%20Enthusiast&descAlignY=58&descColor=8b949e)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=print(%22Hello%2C+World!+I'm+Krischal+%F0%9F%91%8B%22);Bachelor's+Student+%7C+Age+20;Web+Dev+%2B+Python+%2F+Data+Science;Open+Source+Contributor+%F0%9F%8C%90;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=print(%22Hello%2C+World!+I'm+Krischal+%F0%9F%91%8B%22);Bachelor's+Student+%7C+Age+20;Fullstack+Developer+%7C+Python+Django;DevOps+Engineer+%F0%9F%9A%80;Web+Developer+%2B+Python+%2F+Data+Science;Open+Source+Contributor+%F0%9F%8C%90;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
 </div>
 
 ---
